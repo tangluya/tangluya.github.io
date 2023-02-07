@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  <icon>http://example.com/icon.png</icon>
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-02-07T04:14:24.855Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hi</title>
+    <link href="http://example.com/2023/02/07/hi/"/>
+    <id>http://example.com/2023/02/07/hi/</id>
+    <published>2023-02-07T04:14:24.000Z</published>
+    <updated>2023-02-07T04:14:24.855Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="http://example.com/2020/09/27/hello-world/"/>
+    <id>http://example.com/2020/09/27/hello-world/</id>
+    <published>2020-09-27T10:42:38.000Z</published>
+    <updated>2023-02-07T11:54:48.541Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="World" scheme="http://example.com/tags/World/"/>
+    
+    <category term="Hello" scheme="http://example.com/tags/Hello/"/>
+    
+    <category term="hi" scheme="http://example.com/tags/hi/"/>
+    
+  </entry>
+  
+</feed>
